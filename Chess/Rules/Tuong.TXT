@@ -1,0 +1,3 @@
+Tượng chỉ đi chéo, nhưng có thể đi bao nhiêu ô tùy ý trừ phi bị cản. Quân cờ này có hình như chiếc mũ của vị giám mục Thiên Chúa giáo.
+
+Di chuyển theo những đường chéo. Có thể đi tiến hoặc lùi. Quân Tượng không giới hạn các ô chi chuyển trên đường chéo. Quân Tượng không thể nhảy qua các đầu quân khác.

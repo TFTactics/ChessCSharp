@@ -1,0 +1,4 @@
+Biểu tượng của Mã là hình con ngựa. Đây cũng là quân cờ phức tạp nhất. Mã đi theo hình chữ ‘L’ được tạo bởi hai ô ngang và một ô dọc, hoặc một ô ngang và hai ô dọc, chữ ‘L’ này có thể ngả theo mọi hướng. Mã là quân duy nhất có thể nhảy qua đầu các quân khác. Nó chỉ tấn công những quân nằm trong các ô mà nó có thể nhảy tới.
+Cách ăn quân của nó cũng giống cách di chuyển.
+
+Cách ăn quân của nó cũng giống cách di chuyển.

@@ -1,0 +1,1 @@
+Quân cờ cơ bản nhất trong cờ vua (mỗi bên có 8 quân Tốt). Trong lần di chuyển đầu tiên, Tốt có thể tiến về phía trước một hoặc hai ô, nhưng chỉ được tiến lên một ô trong các lần sau đó. Tốt chỉ tấn công được các quân khác nằm chéo về phía trước một ô và không thể đi lùi.

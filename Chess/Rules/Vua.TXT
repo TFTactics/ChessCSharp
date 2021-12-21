@@ -1,0 +1,1 @@
+Vua chỉ có thể đi một ô mỗi lượt, di chuyển theo mọi hướng. Cách quân Vua tấn công cũng tương tự như vậy. Đây là quân cờ mà bạn bằng mọi giá không thể để mất, vì bạn sẽ thua cuộc nếu mất Vua.
